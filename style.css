@@ -1,0 +1,89 @@
+body {
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/8d617e19-3c3c-4c28-8998-c9b14dbc7200/web/IN-en-20250901-TRIFECTA-perspective_48d84d4e-9558-46b8-a0f3-8b2dc8478431_large.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#net {
+    color: red;
+
+}
+
+#b1 {
+    background-color: red;
+    color: aliceblue;
+    width: 70px;
+    height: 25px;
+    margin-right: 50px;
+    margin-top: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    display: flex;
+}
+
+#language {
+    padding: 5px;
+    margin: 30px 50px 0px 700px;
+}
+
+#headingcentre {
+    margin: 50px 100px 0px 100px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: 2000;
+}
+
+h3,
+p {
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+}
+
+#headin {
+    padding: 0px 150px;
+
+}
+
+#email {
+    text-align: center;
+    width: 350px;
+    align-items: center;
+    background-color: black;
+    margin-left: 100px;
+    margin-left: 100px;
+}
+
+#div1 {
+    background-image: url(https://occ-0-3213-3646.1.nflxso.net/dnm/api/v6/mA…YPjg1G6GzZPMRODawEZXb_7Ks9Ryjl-xUANYCs.webp?r=d90;)
+}
+
+#b2 {
+    background-color: red;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#div4 {
+    text-align: center;
+    width: 500px;
+    margin: 0px 400px 0px 400px;
+    height: 50px;
+}
+
+h2 {
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.movies img {
+    border-radius: 10px;
+    padding: 20px;
+    margin: 2px;
+
+}
